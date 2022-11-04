@@ -1,4 +1,4 @@
 # C-noob
 
-swimming in coding pool
-how deep water is
+swimming in coding pool  
+how deep water is  
