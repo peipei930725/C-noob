@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 int oddoreven(int num) {
-	if (num % 2 == 0 || num == 0)
+	if (num % 2 == 0)
 		return 1;
 	else
 		return 0;
